@@ -1,0 +1,14 @@
+{
+  "name": "tcp-emit-client",
+  "version": "0.0.1",
+  "description": "TCP Socket Client Based Event Emitter",
+  "main": "tcp-emit-client.js",
+  "keywords": [
+    "tcp",
+    "ip",
+    "event",
+    "emitter"
+  ],
+  "author": "CB BEZUIDENHOUT",
+  "license": "GPLv3"
+}
